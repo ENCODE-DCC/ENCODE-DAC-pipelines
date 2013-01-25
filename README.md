@@ -1,6 +1,7 @@
-uw
+ENCODE-DAC-pipelines
 ==
 
-University of Washington hub for data analysis pipeline.
-
-A place for the outline of DNase analysis and software.
+Hub for data analysis pipelines and software. 
+All AWGs may gather their required software for uniform pipeline here. 
+This can include alignment software, peak-calling algorithms and 
+various arguments/settings used.
